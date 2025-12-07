@@ -136,7 +136,7 @@ const ServicePage: React.FC = () => {
         });
         setStep(1);
 
-        const adminNumber = "6287718517731";
+        const adminNumber = "6281362363862";
         const pesanWA = `Halo Admin, ada pesanan baru!
 *Jenis Jasa:* ${formData.service}
 *Detail:* ${formData.details}
@@ -234,7 +234,7 @@ const ServicePage: React.FC = () => {
                       </p>
                     </div>
                     <Link
-                      href="https://wa.me/6287718517731"
+                      href="https://wa.me/6281362363862"
                       className="text-black dark:text-gray-300 underline hover:text-gray-400 transition"
                     >
                       Diskusi via chat aja lah
@@ -279,7 +279,7 @@ const ServicePage: React.FC = () => {
                       </p>
                     </div>
                     <Link
-                      href="https://wa.me/6287718517731"
+                      href="https://wa.me/6281362363862"
                       className="text-black dark:text-gray-300 underline hover:text-gray-400 transition"
                     >
                       Diskusi via chat aja lah
@@ -316,7 +316,7 @@ const ServicePage: React.FC = () => {
                       </p>
                     </div>
                     <Link
-                      href="https://wa.me/6287718517731"
+                      href="https://wa.me/6281362363862"
                       className="text-black dark:text-gray-300 underline hover:text-gray-400 transition self-start md:self-auto"
                     >
                       Diskusi via chat aja lah

@@ -12,7 +12,7 @@ const dbConnect = async () => {
   }
   try {
     await mongoose.connect(MONGO_URI, {
-      dbName: "jokindess", // Pakai database "jokindess"
+      dbName: "jokinyakita", // Pakai database "jokinyakita"
     });
     console.log("MongoDB connected successfully");
   } catch (error) {

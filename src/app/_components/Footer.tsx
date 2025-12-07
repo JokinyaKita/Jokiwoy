@@ -11,7 +11,7 @@ const Footer = () => {
           <div className="flex flex-col sm:flex-row justify-between items-center text-center sm:text-left">
             <h1 className="flex items-center gap-3 text-xl sm:text-3xl font-bold">
               <Image
-                src="/logogreen.jpg"
+                src="/logogreen.png"
                 alt="Logo Light"
                 className="block dark:hidden max-w-[50px] rounded-full"
                 width={200}
@@ -24,21 +24,21 @@ const Footer = () => {
                 width={200}
                 height={100}
               />
-              Joki Ndes
+              JokinyaKita
             </h1>
             <Link
-              href="https://www.instagram.com/jokindesss?igsh=Zmt2OWJqb2Frcm1k"
+              href="https://www.instagram.com/"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center mt-4 sm:mt-0 dark:text-gray-300 text-black hover:text-gray-400 transition"
             >
-              <FaInstagram className="mr-1" /> @jokindess
+              <FaInstagram className="mr-1" /> @tomi
             </Link>
           </div>
         </div>
         {/* Copyright */}
         <div className="text-center text-sm py-4 border-t border-gray-300/30">
-          © JokiNdess 2025. All Rights Reserved.
+          © JokinyaKita 2025. All Rights Reserved.
         </div>
       </footer>
     </>

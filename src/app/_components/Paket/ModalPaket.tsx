@@ -30,7 +30,7 @@ const ModalPaket = (props: PropTypes) => {
     const message = formData.get("message") as string;
 
     const text = `Halo! Saya tertarik dengan paket *${paket.title}*.\n\nNama: ${name}\nNo. WhatsApp: ${nowa}\nNama Usaha: ${usaha}\nJenis Usaha: ${businessType}\nDeskripsi proyek:\n${message}`;
-    const url = `https://wa.me/6287718517731?text=${encodeURIComponent(text)}`;
+    const url = `https://wa.me/6281362363862?text=${encodeURIComponent(text)}`;
     window.open(url, "_blank");
     onClose();
   };
