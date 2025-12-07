@@ -78,7 +78,7 @@ const ServicePage: React.FC = () => {
 
   const handleServiceSelection = (service: string) => {
     if (service === "Undangan Digital") {
-      router.push("https://undangin.jokindess.com/");
+      router.push("https://jokijoki.com/");
     } else {
       setFormData((prev) => ({ ...prev, service }));
       setSelectedService(service);
