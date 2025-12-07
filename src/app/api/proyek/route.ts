@@ -1,4 +1,4 @@
-import { NextRequest, NextResponse } from "next/server";
+/* import { NextRequest, NextResponse } from "next/server";
 
 import cloudinary from "cloudinary";
 import dbConnect from "../../../../lib/dbConnect";
@@ -109,3 +109,4 @@ export async function POST(req: NextRequest) {
     return NextResponse.json({ message: "Server error" }, { status: 500 });
   }
 }
+ */
