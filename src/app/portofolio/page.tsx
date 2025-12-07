@@ -6,7 +6,7 @@ import Navbar from "@/app/_components/Navbarpo";
 import { motion } from "framer-motion";
 
 const projects = [
-  {
+ /*  {
     link: "https://tiket.jokindess.com/",
     title: "Tiket Online",
     description:
@@ -32,6 +32,13 @@ const projects = [
     description:
       "Website sewa mobil yang menawarkan kenyamanan, keandalan, dan kemewahan.",
     image: "/porto/prc.png",
+  }, */
+  {
+    link: "https://jokinyakita.com/",
+    title: "JokinyaKita",
+    description:
+      "Platform jasa pembuatan website profesional dengan layanan cepat dan harga terjangkau.",
+    image: "/porto/jokinyakita.png",
   },
 ];
 
