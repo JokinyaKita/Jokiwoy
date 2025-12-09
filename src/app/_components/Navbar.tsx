@@ -94,9 +94,9 @@ const Navbar: React.FC = () => {
         >
           Undangan Digital
         </Link> */}
-        <Link href="#service" className="hover:text-green-400 w-full">
+       {/*  <Link href="#service" className="hover:text-green-400 w-full">
           Service
-        </Link>
+        </Link> */}
         <Link href="#proyek" className="hover:text-green-400 w-full">
           Proyek
         </Link>
